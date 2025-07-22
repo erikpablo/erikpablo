@@ -1,6 +1,6 @@
 ### Olá, Meu Nome é Erik Pablo👋
 
-<h3>Desenvolvedor Full-Stack | HTML, CSS, JavaScript | Experiência em Front-End e Projetos Interativos. Trabalhando como freelancer</h3>
+<h3>Desenvolvedor Back-end|JavaScript, TypeScript, NodeJS</h3>
 
 <hr>
 
